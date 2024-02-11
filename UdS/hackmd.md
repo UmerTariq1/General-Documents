@@ -3,16 +3,19 @@
 - DO NOT forget to put the timestamp when writing an aswer or a specific tip.
 - To create timestamps: use this link:
  https://img.shields.io/badge/any_text-you_like-blue
- replace the text and the colour and once visit this page. then it will be     accessable
+ replace the text and the colour
 
 - When writing content, i suggest clicking on the link icon on the center scroll bar and making unlinked. The scroll has problems otherwise. https://github.com/hackmdio/hackmd-io-issues/issues/102
 -->
 
 
+[![hackmd-github-sync-badge](https://hackmd.io/GyFeEwXCRhmyG8c9uuJNpA/badge)](https://hackmd.io/GyFeEwXCRhmyG8c9uuJNpA)
+
+
 
 # Everything Wiki for Pakistani Students at UdS
 
-![last-updated](https://img.shields.io/badge/Last_Updated-2024-blue) ![status](https://img.shields.io/badge/Current_Status-in_the_imagination%3F%3F-20dbaf)
+![last-updated](https://img.shields.io/badge/Last_Updated-2024-blue) ![status](https://img.shields.io/badge/Current_Status-unexpectedly_happy-0dbaf)
 
 
 *A collaborative **FAQ** and **information hub** for students living in Saarbrucken or coming here for studies.*
@@ -40,7 +43,8 @@ ___
 | ----------------------------------------------------|
 | Get to know Saarbrucken                             |
 | Get to know Saarbrucken through maps                |
-| How to reach Saarbrucken?                          |
+| How to reach Saarbrucken?                           |
+| What to bring when coming for the first time        |
 | Applying for city registeration                     |
 | Applying for residence permit                       |
 | Applying for fiktionsbescheinigung                  |
@@ -53,7 +57,9 @@ ___
 | [Accomodation & Living](#Accomodation-and-Living-🏘) 🏘  |
 | --------------------------------------------------|
 | Finding Accomodation                              |
-| FAQs About Accomodation ❓                          |
+| Cold rent vs Warm rent                            |
+| Suitable price of the apartments                           |
+| FAQs About Accomodation ❓                        |
 
 <br>
 
@@ -66,9 +72,9 @@ ___
 
 | [Jobs Advice](#Jobs-Advice-🏢)    🏢                           |
 | --------------------------------------------------------- |
-| Applying for Jobs During Studies  |
+| Technical jobs during studies  |
 | Part time (odd) jobs during studies |
-| Applying for Jobs Post-Uni  |
+| Job after studies  |
 | FAQs About Jobs ❓                          |
 
 <br>
@@ -80,24 +86,21 @@ ___
 
 <br>
 
-| ‼️‼️ Before You Ask... ‼️‼️   |
+| ‼️‼️ Before You Ask... External Links ‼️‼️   |
 | ------------------------------|
 | [CS masters degree regulations](https://www.uni-saarland.de/en/study/programmes/master/informatics.html) |
 | [Enrollment guide document](https://github.com/UmerTariq1/General-Documents/blob/main/UdS/enrollment%20guide.pdf)            |
-| [Facebook PSA group](https://www.facebook.com/groups/psa.saarland)                                       |
-| [Things To bring when coming to Germany for first time](https://github.com/UmerTariq1/General-Documents/blob/main/UdS/Things%20to%20bring%20LIST.pdf)                                       |
+| [Facebook PSA group](https://www.facebook.com/groups/psa.saarland)    |
+| [Things To bring when coming to Germany for first time](https://github.com/UmerTariq1/General-Documents/blob/main/UdS/PSA%20-%20what%20to%20bring%20list.pdf)                                       |
 | [English speaking doctors in Saarbrucken](https://github.com/UmerTariq1/General-Documents/blob/main/UdS/Doctors%20In%20English.pdf)                                       |
 | [iTAN Guide ](https://github.com/UmerTariq1/General-Documents/blob/main/UdS/iTAN_Guide.pdf) |
 | [Semester re-registration guide](https://www.uni-saarland.de/en/study/organisation/more/reregistration.html)            |
+| [Sim portal: Re-registation / Enrollment Certificates](https://sim.uni-saarland.de/)    |
 | [Guide for Thesis registeration and submission ](https://github.com/UmerTariq1/General-Documents/blob/main/UdS/Thesis%20Registration%20and%20Submission.pdf)            |
-
-___
-
-## General Helpful Links
-
-- [Sim portal: Re-registation / Enrollment Certificates](https://sim.uni-saarland.de/)
-- [LSF: Course Registration](https://www.lsf.uni-saarland.de)
-- [CMS cispa portal](https://cms.cispa.saarland/system/courses)
+|   <br>    |
+| Course related external links ⤵️    |
+| [LSF: Course Registration](https://www.lsf.uni-saarland.de)    |
+| [CMS cispa portal](https://cms.cispa.saarland/system/courses)    |
 
 
 ___
@@ -106,9 +109,10 @@ ___
 <details>
 <summary>Few tips before you come here </summary>
 
-* Start learning German as soon as possible. While it possible to **survive** without, it'll make your life much much easier if you can speak some of it. Not only this, but it'll help you in getting more jobs and B1 Level is a requirement when applying for P.R later anyways.<br><br>
+* Start learning German as soon as possible. While it possible to **survive** without, it'll make your life much much easier if you can speak some of it. Not only this, but it'll help you in getting more jobs and B1 Level is a requirement when applying for P.R later anyways. Some useful platforms to learn german are [Duolingo](https://www.duolingo.com) and [Busuu](http://busuu.com).
+<br>
 * Start looking for accomodations as soon as you can, preferably around 6 months before.<br><br>
-* Please delete all torrent softwares and everything related to it from your computers(More details in the [General Tips](#General-tips))
+* Please delete all torrent softwares and everything related to it from your computers(More details in the [General Tips](#General-tips) section)
 <br><br>
 </details>
 
@@ -138,6 +142,14 @@ The other map has the name of the areas marked and which area is famous for what
 Suggested airport is Frankfrut. Frankfurt is around 3 hours away from SB by train. Airport and big train stations usually have free wifi. connect to them. Check https://www.bahn.de for train connections. There is an RE which comes directly from Frankfurt to Saarbrucken (SB) every 2 hours. make that your priority. Ask someone who is already in Saarbrucken if they can come pick you up from SB train station and can take you to your home. That way you dont have to worry about the busses here. <br><br>
 </details>
 
+<details> 
+<summary>What to bring when coming for the first time </summary>
+
+![written-on](https://img.shields.io/badge/last_updated_on-10_Feb_24-blue)
+Even though it varies from person to person what kind of things they want to bring and how much weight the airline they are using allows. [Here is a list that we have created to help you guide in right direction in general](https://github.com/UmerTariq1/General-Documents/blob/main/UdS/PSA%20-%20what%20to%20bring%20list.pdf).
+
+</details>
+
 <details>
 <summary>Applying for city registeration </summary>
 Do below steps at 8am as there are more appointments available at that time. At 8am you can find an appointment within a few days while if you try at other times, you might not find any appointment for a month.
@@ -160,10 +172,10 @@ If you want to apply yourself then call the VO right at the starting time of the
 <details>
 <summary>Applying for fiktionsbescheinigung </summary>
 The Fiktionsbescheinigung is a proof that you can stay in Germany without a residence permit. It’s just a piece of paper. You get it while you wait for another residence permit.
-With a Fiktionsbescheinigung, you can:
-- Stay in Germany after your visa or residence permit expires
-- Continue your work, studies or self-employment.
-- In some cases, travel outside Germany
+With a Fiktionsbescheinigung, you can:<br>
+* Stay in Germany after your visa or residence permit expires<br>
+* Continue your work, studies or self-employment.<br>
+* In some cases, travel outside Germany<br>
 How to get it? Ask for it. Call or email your VO. If you are calling then call in the early office hours.
 <br><br></details>
 
@@ -183,23 +195,23 @@ After two years you will already be around B1 which will be quite good.
 <summary>Frequently Asked Questions (FAQs) ❓ </summary>
 <details>
     
-![written-on](https://img.shields.io/badge/last_updated_on-7_Feb_24-blue)
-<summary>dummy faq # 1</summary>
-to be written
+<!-- ![written-on](https://img.shields.io/badge/last_updated_on-7_Feb_24-blue) -->
+<summary>No question added here yet</summary>
+If there is no question then why would there be an answer.
 <br><br></details>
 <br><br></details>
 
 
 ---
 ## Accomodation and Living 🏘
-![written-on](https://img.shields.io/badge/last_updated_on-7_Feb_24-blue)
+![written-on](https://img.shields.io/badge/last_updated_on-10_Feb_24-blue)
 
 <details>
 <summary>Finding Accomodation</summary> 
     
     
 - **Start applying/looking as soon as you can, preferably around 6 months before**. 
-
+- **Before signing any contract and making any payment it is recommended that you request someone here to go visit the place on your behalf. If someone insists on making the payment without even visiting the place, it is a clear red flag. Try to convince them you will handover deposit and rent in person when you are here.**.
 
 
 Most of the students live in dorms. There are two types of dorms. 
@@ -210,15 +222,67 @@ Most of the students live in dorms. There are two types of dorms.
 - Private dorms are *realatively* easier to get in as they have smaller waiting time. Since university dorms' applciation can take upto an year (as of writing this, Feb 2024).
 - Refer to map A above to see where dorms are located in the city.
 - For private dorms you will have to go to their respective website for their application. Some of them might only ask you to send an email to the manager there. That's ok. Just send them an email asking if there is a room available there.
+
+<details>
+<summary>Applying in SBT </summary>
+
+![written-on](https://img.shields.io/badge/last_updated_on-10_Feb_24-blue)
+1 - Visit SBT [homepage](https://www.gbs.saarland).
+2- Download appropriate application form from [download page](https://www.gbs.saarland/index.php/studentenwohnungen/downloads) 
+3- Fill the form, send it to the mentioned email mentioned at the top of the form.<br>
+You’ll get response within 2-3 days.
+The warm rent is around 400-500 euros
+</details>
+<br>    
+<details>
+<summary>Applying in Cusanushaus </summary>
+    
+![written-on](https://img.shields.io/badge/last_updated_on-11_Feb_24-blue)
+1- Visit the official website: https://cusanustreff.de/
+2- Explore the different rooms. The rooms are of three categories and each has two variants i.e. with and without a toilet inside.
+3- Download the from the website and duly fill it. 
+4- Send the form on the mentioned email and the landlord will put your name in the queue. 
+
+Cusanushaus offers one of the most convenient and cheapest locations you'll find in the city center. There are three bus stations within 3 minutes of foot. 3 different grocery stores under 10 minutes on foot, one of which is just 2 minutes away. The view is amazing, you can see the Saar river right from your room's window (if you get a room on the roadside facing). The city center is under 5 minutes on foot, the main train station at around 8-10 minutes on foot.. you get the point. 
+Rent starts at 290 euros for the smallest rooms without toilet, from there you add around 30 euros for everything you add on top.
+Lastly, one of the main "issues" of such a dorm is the shared kitchen and shared washrooms (including toilets). The main kitchen, including the main fridge but tenants usually buy a small fridge for their room, is shared among the entire floor consisting around 12-15 tenants. According to the Pakistani tenants living there, its rather rare that you find the kitchen completely busy and you have to wait for your turn to cook, very few people actually cook but this can vary. There are two toilets and a dedicated shower area on each end of the hallway. These are shared among (roughly) 6-8 people. 
+The cleaning of these shared spaces is handled by the cleaning staff. They clean the toilets, shower, kitchen and the hallway in the morning of every week day. 
+    
+If you are unsure about anything, feel free to reachout to any of the seniors already living there to clear out any confussion. 
+</details>
+<br><br>   
     
 You can also look for Wohngemeinschaft (WG - *pronounced as waygay*). WGs are shared apartments where you live other apartment-mates. In this case you have a shared kitchen and bathroom among the apartment mates.
 You can look for WGs on [WG-Gesucht](https://www.wg-gesucht.de) or [Ebay Klein](https://www.kleinanzeigen.de/stadt/saarbruecken/). You can also look for various types of residences on  [Immobilien Scout](https://www.immobilienscout24.de/).
-    
+<br>
 </details>
 
 <details>
-<summary>Frequently Asked Questions (FAQs)❓</summary>
+<summary>Cold rent vs Warm rent </summary>
+    
+![written-on](https://img.shields.io/badge/last_updated_on-10_Feb_24-blue)
+Cold rent means that you pay basic rent for the residence and there are no extra costs included in your monthly payment. 
+Warm rent means that your monthly payment includes the basic rent for the residence AND additional costs – called Umlagen or Nebenkosten.
+</details>
 
+<details>
+<summary>Suitable price of the the apartment </summary>
+    
+![written-on](https://img.shields.io/badge/last_updated_on-11_Feb_24-blue)
+Price of the dorms are fixed (unless its being sublet, then some ppl sublet for it cheaper or higher. ask in the PSA group for current prices.
+
+For the WGs, It depends on several factors like size of the room, wg or studio apartment, area, facilities etc. 
+
+In the city, near the city center where most the WGs are available:
+Studio apartment for around 500-600 warm rent is good. Only sbt dorm is cheaper where studio apartment is around 450.
+For wg/share apartment: it depends on the number of ppl you are sharing it with. Most apartments here are for 3 ppl. Avg price would be around 350-450 depending on the size of the room and size of the overall apartment.
+
+
+</details>
+    
+<details>
+<summary>Frequently Asked Questions (FAQs)❓</summary>
+<br>
 <details>
     
 ![written-on](https://img.shields.io/badge/last_updated_on-7_Feb_24-blue)
@@ -228,20 +292,7 @@ Answer: Depends on your priorities. If you want to live in a outskirts of the ci
   - Living near the city center will mean nearby shops (and also some fast food places that are open till late night), more places to socialize, nearby bus stops and the usual hustle bustle. But living near the city center might cost you more money as rent is higher (around 50-100 euros more per month atleast).
 <br><br>
 </details>
-<details>
-    
-![written-on](https://img.shields.io/badge/last_updated_on-7_Feb_24-blue)
-<summary>what is the difference between Cold rent and Warm rent?</summary>
-Answer: Cold rent means that you pay basic rent for the residence and there are no extra costs included in your monthly payment. 
-Warm rent means that your monthly payment includes the basic rent for the residence AND additional costs – called Umlagen or Nebenkosten.
-<br><br>
-</details>
-<details>
-    
-![written-on](https://img.shields.io/badge/last_updated_on-7_Feb_24-blue)
-<summary>what is the usual acceptable price?</summary>
-Answer: Depends on several factors like size of the room, wg or studio apartment, area, facilities etc. General cold rent for a wg of 2-3 ppl would be around 400 in the city. Cold rent might be around 50-70.
-<br><br></details>
+
 <details>
     
 ![written-on](https://img.shields.io/badge/last_updated_on-7_Feb_24-blue)
@@ -254,12 +305,7 @@ Depends on your choice. There are 2 maps linked in this guide, Refer to them. Ot
 <summary>how to know which property will allow me to use it for city reg and bank opening?</summary>
 Answer: Ask them. usually all the dorms and long-term sublets will allow that. If the property (or a room in a wg) can be on your name then you can do city reg on it. Note that it is possible that a dorm is sublet by a student for some small duration, in that case you cannot do city registeration on that place. So, Just ASK the landlord.
 <br><br></details>    
-<details>
-    
-![written-on](https://img.shields.io/badge/last_updated_on-7_Feb_24-blue)
-<summary>Should i pay in advance or is it fraud</summary>
-Answer: Its not always fraud. Each case is different. Before payment make sure you have a signed contract and ask someone to go visit that place in person. if you don't know anyone then message in the PSA group, when you have a place finalised, someone will go visit the place on your behalf and see if its legit.
-<br><br></details>    
+
 <details>
     
 ![written-on](https://img.shields.io/badge/last_updated_on-7_Feb_24-blue)
@@ -314,6 +360,7 @@ There is also a newer guide with the help of the students and it answers some of
 
 <details>
     <summary>Frequently Asked Questions (FAQs) ❓</summary>
+    
 <details>
     
 ![written-on](https://img.shields.io/badge/last_updated_on-7_Feb_24-blue)
@@ -322,6 +369,12 @@ Answer: The courses in MS CS are optional meaning nothing is a must to take. You
 
 Because of this freedom the work load, difficulty and practicality of courses is totally custom and depends upon you i.e what courses you take. You can pick out the most difficult courses and have a hellish time or you can pick out your interest ones or relatively straight forward ones and it becomes manageable
 Overall i would say the courses quality is good here. It's not going to be easy pickings, you'll have to put in some effort but your course selection really matters.
+<br><br></details>
+<details>
+    
+![written-on](https://img.shields.io/badge/last_updated_on-9_Feb_24-blue)
+<summary>How important is it to attend the orientation meeting?</summary>
+Answer: In the orientation the details of city registeration process, bank, garbage seperation, piracy stuff, accomodations, asta etc are discussed. And its also held online. so even if you cannot attend it in person or have other priorities then just attend it online. 
 <br><br></details>
 </details>
 
@@ -359,8 +412,9 @@ To be written
 <summary>Frequently Asked Questions (FAQs)❓</summary>
 <details>
     
-![written-on](https://img.shields.io/badge/last_updated_on-7_Feb_24-blue)<summary>dummy faq#1</summary>
-to be written
+<!-- ![written-on](https://img.shields.io/badge/last_updated_on-7_Feb_24-blue) -->
+<summary>No question added here yet</summary>
+If there is no question then why would there be an answer.
 <br><br></details>
 </details>
 
@@ -410,7 +464,7 @@ ___
 
 ## About
 
-This wiki began as a PSA student effort of 2024 by Umer. Hoping to serve this as one-central hub for answering all questions by new incomng students. 
+This wiki began as a PSA student effort of 2024 by Umer, inspired by [Aria](https://hackmd.io/@ariabee)'s similar effort for the dept of LST. Hoping to serve this as one-central hub for answering all questions by new incomng students. 
  
 
 For questions related to this operation in general: ... *(for now, ask Umer, but perhaps in the future PSA management will be managing it)*
