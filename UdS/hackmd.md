@@ -15,7 +15,7 @@
 
 # Everything Wiki for Pakistani Students at UdS
 
-![last-updated](https://img.shields.io/badge/Last_Updated-2024-blue) ![status](https://img.shields.io/badge/Current_Status-unexpectedly_happy-0dbaf)
+![last-updated](https://img.shields.io/badge/Last_Updated-2024-blue) ![status](https://img.shields.io/badge/Current_Status-Mostly_done-0dbaf)
 
 
 *A collaborative **FAQ** and **information hub** for students living in Saarbrucken or coming here for studies.*
@@ -36,7 +36,7 @@ ___
 
 ___
 
-# Contents
+# Table of Content
 
 
 | [Living in Saarbrücken](#Living-in-Saarbrücken-🌆) 🌆    |
@@ -45,6 +45,8 @@ ___
 | Get to know Saarbrucken through maps                |
 | How to reach Saarbrucken?                           |
 | What to bring when coming for the first time        |
+| Monthly income and expense                          |
+| Deutschland Ticket and how to buy it ?              |
 | Applying for city registeration                     |
 | Applying for residence permit                       |
 | Applying for fiktionsbescheinigung                  |
@@ -66,7 +68,18 @@ ___
 | [University Related Stuff](#University-Related-Stuff-🏫) 🏫|
 | ----------------------------------------------------------|
 | Enrollment Guide                                          |
-| FAQs About Admission Process    ❓                          |
+| Thesis Submission Guide                                   |
+| FAQs About Admission Process    ❓                        |
+
+<br>
+
+| [Program Specific Information](#Program-Specific-Information-📚) 📚|
+| ----------------------------------------------------------|
+| Computer Science / Informatika                            |
+| Data Science                                              |
+| Media Informatics                                         |
+| Language Science and Technology                           |
+
 
 <br>
 
@@ -79,15 +92,18 @@ ___
 
 <br>
 
+
 | General FAQs and tips    ❓🤝  |
 | ------------------------------ |
 | [General FAQs](#General-FAQs)  |
-| [General tips](#General-tips)  |
+| [General tips](#General-Tips)  |
 
 <br>
 
 | ‼️‼️ Before You Ask... External Links ‼️‼️   |
 | ------------------------------|
+| [Video: German Visa Application Guide for new students ](https://www.youtube.com/watch?v=_PE0_2a3rM4)            |
+| [PDF: German Visa Application Guide for new students ](https://github.com/UmerTariq1/General-Documents/blob/main/UdS/visa-application-form-dummy-1.pdf)            |
 | [CS masters degree regulations](https://www.uni-saarland.de/en/study/programmes/master/informatics.html) |
 | [Enrollment guide document](https://github.com/UmerTariq1/General-Documents/blob/main/UdS/enrollment%20guide.pdf)            |
 | [Facebook PSA group](https://www.facebook.com/groups/psa.saarland)    |
@@ -99,13 +115,15 @@ ___
 | [Guide for Thesis registeration and submission ](https://github.com/UmerTariq1/General-Documents/blob/main/UdS/Thesis%20Registration%20and%20Submission.pdf)            |
 |   <br>    |
 | Course related external links ⤵️    |
-| [LSF: Course Registration](https://www.lsf.uni-saarland.de)    |
+| [LSF: Course Registration](https://bit.ly/49rFNuv)    |
 | [CMS cispa portal](https://cms.cispa.saarland/system/courses)    |
 
 
 ___
 
-## Before You Land 🛫
+# Content 
+
+### Before You Land 🛫
 <details>
 <summary>Few tips before you come here </summary>
 
@@ -119,8 +137,8 @@ ___
 
 ___
 
-## Living in Saarbrücken 🌆
-![written-on](https://img.shields.io/badge/last_updated_on-7_Feb_24-blue)
+### Living in Saarbrücken 🌆
+![written-on](https://img.shields.io/badge/last_updated_on-14_March_24-blue)
 
 <details>
 <summary>Get to know Saarbrucken </summary>
@@ -139,7 +157,14 @@ The other map has the name of the areas marked and which area is famous for what
 </details>
 
 <details> <summary>How to reach Saarbrucken? </summary>
-Suggested airport is Frankfrut. Frankfurt is around 3 hours away from SB by train. Airport and big train stations usually have free wifi. connect to them. Check https://www.bahn.de for train connections. There is an RE which comes directly from Frankfurt to Saarbrucken (SB) every 2 hours. make that your priority. Ask someone who is already in Saarbrucken if they can come pick you up from SB train station and can take you to your home. That way you dont have to worry about the busses here. <br><br>
+
+Suggested airport is Frankfrut. Frankfurt is around 3 hours away from SB by train. Airport and big train stations usually have free wifi. connect to them. Check [https://www.bahn.de](https://www.bahn.de) (DB : Deutsch Bahn / German railway) for train connections. There is an RE which comes directly from Frankfurt to Saarbrucken (SB) every 2 hours. make that your priority. Ask someone who is already in Saarbrucken if they can come pick you up from SB train station and can take you to your home. That way you dont have to worry about the busses here. 
+There are other options of reaching Saarbrucken as well. For example coming to any other city in Germany and then coming to SB via train. Or landing at Paris and then taking flixbux to SB. Check your options, Take opinions, decide for yourself.
+<br>
+Note: You can enter Germany through any other European country. To quote the visa office: 
+> National Visa holders  enjoy the same right to free movement as national residence permit holders.  
+
+<br><br>
 </details>
 
 <details> 
@@ -148,6 +173,29 @@ Suggested airport is Frankfrut. Frankfurt is around 3 hours away from SB by trai
 ![written-on](https://img.shields.io/badge/last_updated_on-10_Feb_24-blue)
 Even though it varies from person to person what kind of things they want to bring and how much weight the airline they are using allows. [Here is a list that we have created to help you guide in right direction in general](https://github.com/UmerTariq1/General-Documents/blob/main/UdS/PSA%20-%20what%20to%20bring%20list.pdf).
 
+</details>
+
+<details> 
+<summary>Monthly income and expense</summary>
+
+![written-on](https://img.shields.io/badge/last_updated_on-16_July_24-blue)
+Income depends on the number of hours you are working per week.
+The average rate for per hour is around 13 to 15 euros. So, if you work for 16 hours per week, you will earn around 900 euros per month.
+    
+Expenses depends on a lot of factors. But you can get a general idea using this [website](https://www.numbeo.com/cost-of-living/in/Saarbrucken)
+    
+</details>
+
+<details> 
+<summary>Deutschland Ticket and how to register/unregister for it ? </summary>
+
+![written-on](https://img.shields.io/badge/last_updated_on-23_October_24-blue)
+The Deutschlandticket often shorted to the D-Ticket, also known as the 49-Euro-Ticket, is a subscription based public transport ticket for all **local** public transport, valid in the whole of Germany, that costs 49 euros per month for non students, and 26 euros for students. 
+    
+From winter semester 2024, the D-ticket is now included within the semester fees so now you dont have to pay separately.
+
+Important: You cannot take any ICE / IC / EC trains. These are the names of the trains and when you use DB website you will figure it out. Chose the option local transport in db app and it will show you only the transport options that you can take with d ticket.
+    
 </details>
 
 <details>
@@ -167,6 +215,40 @@ Do below steps at 8am as there are more appointments available at that time. At 
 <summary>Applying for residence permit </summary>
 If you have 6 months visa then apply for the residence permit in your 2nd or 3rd month. Email the university welcome centre to process your application, it gets done faster this way. Usually, Permit is given for 2 years but in the end, it depends on your Visa Officer (VO). 
 If you want to apply yourself then call the VO right at the starting time of the office (8am). Otherwise they dont usually pick up the call.
+    
+    
+Detailed information in case you want to apply through welcome center:
+General rule of thumb
+
+Goto welcome center as last resort :
+1. your visa has already expired and you still haven’t got any appointment
+2. ⁠your visa is about to expire and you want to travel
+3. ⁠no ones is replying you from auslanderbehorde
+4. having said the above things, sometimes welcome center does help getting you appointment even if you dont have any of those above problems. Depends on luck. Write email (welcome@uni-saarland.de) and ask about the procedure for visa extension or if they can request residence permit isssuence on your behalf. 
+for all other cases you’ll get an visa appointment letter when your visa is expiring this is for all the first timers and also for renewing.
+        
+
+write to general email address of auslanderbehorde when its your turn they’ll assign you a VO
+
+Send email to 3 to 4 people. And keep zab in CC (General contact : zab@lava.saarland.de)
+Email template :
+    Dear Sir/Madam,
+
+I hope this email finds you well.
+I, <first_name> <last_name>, a master's student at the Saarland University, kindly request you to provide me with an appointment slot for the residence permit - visa extension.
+The following documents have been attached alongside (in-order):
+Passport (Identity/Front and Data/Back Page)
+Current Student Visa (valid till dd.mm.yyyy)
+Meldebestätigung
+Immatrikulationsbescheinigung
+Health Insurance Confirmation
+Blocked Account Confirmation
+    
+Thank you,
+Regards,
+<Name>
+    
+
 <br><br></details>
 
 <details>
@@ -182,12 +264,12 @@ How to get it? Ask for it. Call or email your VO. If you are calling then call i
 <details>
 <summary>Importance of German </summary>
 (to be written in detail)
-As with any country, native language is important if you want to find a job there. Even though it is relatively easy to find a CS job here which doesnt require German, Knowing German would help A LOT. Roughly 50% jobs (both student and full time jobs) require german and that is for CS. For other fields the percentage might be way higher. And German is almost always needed if you want to find a part time non technical odd job here. There are some instances where you wont, for eg cases where you dont need to face the customer, but those jobs are rare and readily available. 
+As with any country, native language is important if you want to find a job there. Even though it is relatively easy to find an IT job here which doesnt require German, Knowing German would help A LOT. Roughly 50% jobs (both student and full time jobs) require german and that is for CS. For other fields the percentage might be way higher. And German is almost always needed if you want to find a part time non technical odd job here. There are some instances where you wouldnt need it, for eg cases where you dont need to face the customer, but those jobs are rare and readily available. 
 <br>
 Also, Knowing German would generally help you a lot in daily life. For example socializing and etc.
 <br>
 University offers langauge courses for free. I would suggest taking them every semester.
-After two years you will already be around B1 which will be quite good. 
+After two years you will already be around B1 which is quite good and min required limit for passport as well.  
 <br><br></details>
 
 
@@ -195,15 +277,16 @@ After two years you will already be around B1 which will be quite good.
 <summary>Frequently Asked Questions (FAQs) ❓ </summary>
 <details>
     
-<!-- ![written-on](https://img.shields.io/badge/last_updated_on-7_Feb_24-blue) -->
-<summary>No question added here yet</summary>
-If there is no question then why would there be an answer.
+![written-on](https://img.shields.io/badge/last_updated_on-14_March_24-blue)
+<summary>Can I arrive in Germany for the first time through another European Country?</summary>
+You can enter Germany through any other European country. To quote the visa office: 
+> National Visa holders  enjoy the same right to free movement as national residence permit holders.  
 <br><br></details>
 <br><br></details>
 
 
 ---
-## Accomodation and Living 🏘
+### Accomodation and Living 🏘
 ![written-on](https://img.shields.io/badge/last_updated_on-10_Feb_24-blue)
 
 <details>
@@ -227,17 +310,19 @@ Most of the students live in dorms. There are two types of dorms.
 <summary>Applying in SBT </summary>
 
 ![written-on](https://img.shields.io/badge/last_updated_on-10_Feb_24-blue)
+SBT is a private dorm in SB near the city center. It has studio apartments. You can see its exact location on the map linked in Life in Saarbrucken Section. To apply for this dorm follow this process.
 1 - Visit SBT [homepage](https://www.gbs.saarland).
 2- Download appropriate application form from [download page](https://www.gbs.saarland/index.php/studentenwohnungen/downloads) 
 3- Fill the form, send it to the mentioned email mentioned at the top of the form.<br>
 You’ll get response within 2-3 days.
-The warm rent is around 400-500 euros
+As of writing this, The cold rent is around 350 and the warm rent is around 400-500 euros
 </details>
 <br>    
 <details>
 <summary>Applying in Cusanushaus </summary>
     
 ![written-on](https://img.shields.io/badge/last_updated_on-11_Feb_24-blue)
+Cusanushaus is a private dorm in SB near the city center. There are 3 different types of rooms in this dorm, whose details you can see on the website linked below. You can see dorm's exact location on the map linked in Life in Saarbrucken Section. To apply for this dorm follow this process.
 1- Visit the official website: https://cusanustreff.de/
 2- Explore the different rooms. The rooms are of three categories and each has two variants i.e. with and without a toilet inside.
 3- Download the from the website and duly fill it. 
@@ -252,8 +337,9 @@ If you are unsure about anything, feel free to reachout to any of the seniors al
 </details>
 <br><br>   
     
-You can also look for Wohngemeinschaft (WG - *pronounced as waygay*). WGs are shared apartments where you live other apartment-mates. In this case you have a shared kitchen and bathroom among the apartment mates.
-You can look for WGs on [WG-Gesucht](https://www.wg-gesucht.de) or [Ebay Klein](https://www.kleinanzeigen.de/stadt/saarbruecken/). You can also look for various types of residences on  [Immobilien Scout](https://www.immobilienscout24.de/).
+You can also look for Wohngemeinschaft (WG - *pronounced as WheyGhey*). WGs are shared apartments where you live with other apartment-mates. In this case you have a shared kitchen and bathroom among the apartment mates.
+You can look for WGs on [WG-Gesucht](https://www.wg-gesucht.de) or [Ebay Klein](https://www.kleinanzeigen.de/stadt/saarbruecken/) or [Immobilien Scout](https://www.immobilienscout24.de/).
+
 <br>
 </details>
 
@@ -268,11 +354,11 @@ Warm rent means that your monthly payment includes the basic rent for the reside
 <details>
 <summary>Suitable price of the the apartment </summary>
     
-![written-on](https://img.shields.io/badge/last_updated_on-11_Feb_24-blue)
+![written-on](https://img.shields.io/badge/last_updated_on-16_March_24-blue)
 Price of the dorms are fixed (unless its being sublet, then some ppl sublet for it cheaper or higher. ask in the PSA group for current prices.
 
 For the WGs, It depends on several factors like size of the room, wg or studio apartment, area, facilities etc. 
-
+As of writing this:
 In the city, near the city center where most the WGs are available:
 Studio apartment for around 500-600 warm rent is good. Only sbt dorm is cheaper where studio apartment is around 450.
 For wg/share apartment: it depends on the number of ppl you are sharing it with. Most apartments here are for 3 ppl. Avg price would be around 350-450 depending on the size of the room and size of the overall apartment.
@@ -336,7 +422,7 @@ If you've honestly done all of the above and still you "Have" to be here because
 
 
 
-## University Related Stuff 🏫
+### University Related Stuff 🏫
 ![written-on](https://img.shields.io/badge/last_updated_on-7_Feb_24-blue)
 
 <details>
@@ -357,7 +443,14 @@ There is also a newer guide with the help of the students and it answers some of
 <br><br>
 </details>
 
+<details>
+<Summary>Thesis Guide</Summary>
+    
+![written-on](https://img.shields.io/badge/last_updated_on-29_May_24-blue)
 
+#TO BE WRITTEN
+    
+</details>
 <details>
     <summary>Frequently Asked Questions (FAQs) ❓</summary>
     
@@ -376,17 +469,140 @@ Overall i would say the courses quality is good here. It's not going to be easy 
 <summary>How important is it to attend the orientation meeting?</summary>
 Answer: In the orientation the details of city registeration process, bank, garbage seperation, piracy stuff, accomodations, asta etc are discussed. And its also held online. so even if you cannot attend it in person or have other priorities then just attend it online. 
 <br><br></details>
+<details>
+    
+![written-on](https://img.shields.io/badge/last_updated_on-9_Feb_24-blue)
+<summary>In the MS program, are we assigned courses each semester or do we have to select ourselves?</summary>
+Answer: You have to do it yourself. 
+<br><br></details>
+<details>
+    
+![written-on](https://img.shields.io/badge/last_updated_on-9_Feb_24-blue)
+<summary>How to register for courses?</summary>
+Answer: Its mainly done through LSF. Its link is attached at the content overview -> external links section.  There is a course description for each course or an external link to it (if there is not then wait for it, if the time is getting very close like 1-2 weeks and there is no information then email the prof or ask the seniors).
+Note that this registeration only enables you to take the classes for that couses. To be able to sit in the exam for the course, you will have to register seperately. That registeration open 3-4 weeks before the exam and will be announced by the instructor in the class.
+
+<br><br></details>
+<details>
+    
+![written-on](https://img.shields.io/badge/last_updated_on-9_Feb_24-blue)
+<summary>How to transfer enrollment fees from Pakistan</summary>
+Answer: You can pay using wise or any german bank if you have those accounts. Or you can ask someone here in PSA if they can transfer the amount on your behalf and you can maybe send them money in their pakistani account (ppl who are travelling to pakistan sometimes need money in their pak account so they want to transfer euros to pkr ).
+If neither is the case then you can do it from bank via FTT in Pakistan. It takes around a week to get the fees transfered (to get the swift details, it might take a bit longer to be shown on the portal).
+
+<br><br></details>    
+</details>
+
+
+---
+
+### Program Specific Information 📚
+![written-on](https://img.shields.io/badge/last_updated_on-14_March_24-blue)
+<details>
+
+![written-on](https://img.shields.io/badge/last_updated_on-21_Feb_24-blue)
+<summary>Computer Science / Informatika </summary> 
+    
+Computer Science dept is one of the biggest department in UdS. 
+You can find more information [here](https://www.uni-saarland.de/en/study/programmes/bachelor/computer-science.html), including the information about the deadlines and everything. As of writing this, the GPA requirement for this dept is 3.
+The Course specific requirements are as follows:
+
+| Course Type      | Required Credits                  |
+| ---------------- | --------------------------------- |
+| Core             | 27  (each course is 9 cp)         |
+| Advance          | 27  (each course is usually 6 cp) |
+| Seminar          | 7   (each seminar is 7 cp)        |
+| Master Seminar   | 12                                |
+| Thesis           | 30                                |
+| Ungraded         | 17  (you can put core adv or seminar or language course in it)|
+| ------           | --------                          |
+| *Thesis - total* | 42                                |
+| *Courses-total*  | 78                                |
+| ------           | --------                          |
+| *Total*          | 120                               |
+
+So, you need to do 3 core courses and around 5-6 adv courses.
+You can put any course in the ungraded course. For example if you are not happy with the grade in a course, just put it in the ungraded section.
+You can pick these in any order, there is no restriction on the order you clear these.
+
+To see the courses offered in a particular semester:
+1. Go to this [link](https://bit.ly/49rFNuv). 
+2. Select the semester you want to check the courses for.
+3. On the next page, Clikc on **Vorlesungsverzeichnis** which is the first option on the left side of the page.
+4. Select **Master** from list 
+5. Select **Master (konsekutiv)**
+6. Select **Informatik**
+7. Here you will see different categories of courses offered in that semester. Clicking on any category will open the list of courses under that category.  
+<br>
+</details>
+
+<details>
+
+![written-on](https://img.shields.io/badge/last_updated_on-21_Feb_24-blue)
+<summary>Data Science </summary> 
+To be written. If you have this information then you can contribute as well. click on the "Collaborate on HackMD" button at the top of the article and start sharing your information.
+<br><br></details>
+
+<details>
+    
+![written-on](https://img.shields.io/badge/last_updated_on-21_Feb_24-blue)
+<summary>Media Informatics </summary> 
+To be written. If you have this information then you can contribute as well. click on the "Collaborate on HackMD" button at the top of the article and start sharing your information.
+<br><br></details>
+
+<details>
+    
+![written-on](https://img.shields.io/badge/last_updated_on-21_Feb_24-blue)
+<summary>Language Science and technology </summary> 
+    
+This LST department is a dept focused on NLP and linguistics. Combining computer side of the linguistics. You can find more details about the dept [here](https://www.uni-saarland.de/en/department/lst.html). There isnt any specific GPA requirement for admission but you must have some background in NLP or Linguistics. It is a small but very international and fun department. As of writing this, there are only 2 Pakistani students in the department including the original author of this document (Umer). I would highly recommend joining this department if you are interested in NLP or Linguistics. There are also many student working opportunities within the dept in various research groups. 
+The course requirements are as follow:
+    
+| Course Type                    | Required Credits                  |
+| ---------------- | --------------------------------- |
+| Core                           | 24  (each course is 6 cp)         |
+| Seminar                        | 14   (each seminar is either 4 or 7 cp)        |
+| Courses from CS or Cog. Psy    | 6-18                                |
+| Others                         | 19-31   (graded just like normal courses)  |
+| Master Seminar   | 12                                |
+| Thesis           | 30                                |
+| ------           | --------                          |
+| *Thesis - total* | 42                                |
+| *Courses-total*  | 78                                |
+| ------           | --------                          |
+| *Total*          | 120                               |
+
+To see the courses offered in a particular semester:
+1. Go to this [link](https://bit.ly/49rFNuv). 
+2. Select the semester you want to check the courses for.
+3. On the next page, Clikc on **Vorlesungsverzeichnis** which is the first option on the left side of the page.
+4. Select **Master** from list 
+5. Select **Master (konsekutiv)**
+6. Select **Language Science and Technology**
+7. Here you will see different categories of courses offered in that semester. Clicking on any category will open the list of courses under that category.  
+    
+<br>
 </details>
 
 
 
 ---
 
-## Jobs Advice 🏢
-![written-on](https://img.shields.io/badge/last_updated_on-7_Feb_24-blue)
+### Jobs Advice 🏢
+![written-on](https://img.shields.io/badge/last_updated_on-12_Jul_24-blue)
+
 
 <details>
 <summary>Technical jobs during studies</summary> 
+
+we can divide technical jobs into 2 categories:
+Werkstudent in a company,
+Hiwi, which is std researcher etc related job in uni
+    
+werkstd in a company: these are sometimes more difficult to get, might require referal at time, but also usually pays well esp if its not a saarbrücken based company. It can require german sometimes depending on the field for e.g security jobs even student ones require german at many instances.
+
+Hiwi: These you get through professors so if you take a course from a prof. you score good in it so you can ask that prof for any open poisitions. But that is alao not always necessary sometimes just a good acdemic record or maybe even previous working exp helps you in getting one. This usally pays in b/w work student and odd jobs.
+    
 There are many research groups in each department in the university. And it is rather easier to find a job here. Especially if you are from a CS background and already have experience. 
 <br><br>
 You can contact the professors or PHD students in research groups and ask if they have any open position. For this you can go to your professor after the class or just go to your dept website and see which groups are there and then contact them via email. There are 2 main research centers for CS affiliated with UdS. They are DFKI and MPI. You can go to their respective sites and figure out which group you want to apply in. Then get the professors' or PHD students' email and then write a short 5-6 line introduction asking for an open position. 
@@ -394,8 +610,10 @@ You can contact the professors or PHD students in research groups and ask if the
 </details>
 
 <details>
-<summary>Part time (odd) jobs during studies</summary> 
-There are part time jobs available but most of them require German language. Especially if its a customer facing job. There are non customer facing jobs but they are not many. 
+<summary>Odd jobs during studies</summary> 
+There are part time jobs available but most of them require German language. Especially if its a customer facing job. Non customer facing jobs ofc dont req German language proficiency.
+There are opportunities to work in retails stores, restaurant, bakeries, or warehouses(but warehouse work is rare here, very few ppl have worked there)
+In any case, it will always learning German as it will open far more opportunities specially in odd jobs
 <br>
 More details to be added here.
 <br><br>
@@ -419,24 +637,24 @@ If there is no question then why would there be an answer.
 </details>
 
 
+
 ---
 
-
-## General FAQs
+### General FAQs
 All the questions which can not be put in specific category come here.
 <details>
     
-![written-on](https://img.shields.io/badge/last_updated_on-7_Feb_24-blue)
+![written-on](https://img.shields.io/badge/last_updated_on-16_March_24-blue)
 
 <summary>Is it okay to arrive after the "last date to arrive" ?</summary>
-While it's certainly ok to arrive late. Here educatiom system will not force you to be punctual and take classes(no attendance etc) so you have to be self disciplined and hence i won't recommend being very chill about stuff. Also, moving abroad and living alone for the first time takes some time to get used to. So if you arrive late then it might get hectic for you to manage classes and getting used to here. So, suggested is to arrive early.
-
-Being said all this, if it's some genuine issue(visa or whatnot) then its fine. Otherwise i would suggest all(if the accomodation is done and no issues) to get here some time before the classes start to get an idea of buses, grocery, sim and some other misc. stuff. Basically get settled in, since after classes it might be a little more difficult
+While it's certainly ok to arrive late. Here educatiom system will not force you to be punctual and take classes(no attendance etc) so you have to be self disciplined and hence we won't recommend being very chill about stuff. 
+Also, moving abroad and living alone for the first time takes some time to get used to. So if you arrive late then it might get hectic for you to manage classes and getting used to here.
+Its suggested to arrive before the classes start so you get settled here before the 'magic' starts. 
 <br><br></details>
 
 ---
 
-## General tips
+### General Tips
 All the helpful tips which can not be put in specific category come here.
 
 
@@ -451,7 +669,7 @@ All the helpful tips which can not be put in specific category come here.
 - Please **DO NOT** use **TORRENT** here. Torrents are very actively monitored here, not only you''ll be charged with a very very hefty fine to say the least. But also have to hire lawyers, go through hassles of legal stuff and what not. Please delete all torrent softwares and everything related to it from your computers. I know that it feels kinda repercussion free in pk, but it's not the case here, and people who have gone through it here can vouch for it as well
 
 ---
-## Comments
+### Comments
 
 Hey hey, how is the organization? Anything you want to suggest, critique, include, or exclude?
 
@@ -462,7 +680,7 @@ What are we missing??? write a comment on this page to let us know.
 
 ___
 
-## About
+### About
 
 This wiki began as a PSA student effort of 2024 by Umer, inspired by [Aria](https://hackmd.io/@ariabee)'s similar effort for the dept of LST. Hoping to serve this as one-central hub for answering all questions by new incomng students. 
  
